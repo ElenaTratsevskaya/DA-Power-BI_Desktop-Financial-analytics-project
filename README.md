@@ -9,9 +9,6 @@
 
 <h1>Проект создан в POWER BI Desktop и представлен слайдами страниц и фрагментов страниц отчёта.</h1>
 
-![ГитХаб_05_GD-1](https://user-images.githubusercontent.com/110056199/213197491-b710bbad-ba31-4d57-9150-892b82d5fd85.jpg)
-
-
 **Объединены факторы доходов и убытков в группы:**
 - валовая прибыль;
 - операционные расходы;
@@ -22,16 +19,10 @@
 
 **Сделаны выводы**
 
-![ГитХаб_06_GD-1](https://user-images.githubusercontent.com/110056199/213197586-d3aac696-5715-40e4-b59f-7a2dcb85cd08.jpg)
+![ФинАнализ(2)](https://user-images.githubusercontent.com/110056199/236886476-f0d1cf2a-bf72-481d-a802-fe265f62772d.jpg)
 
-
-![ГитХаб_07_GD-1](https://user-images.githubusercontent.com/110056199/213197620-08f15886-2bb9-4212-b6fc-306408a0bee7.jpg)
+![ФинАнализ(3)](https://user-images.githubusercontent.com/110056199/236889718-e6a40415-a3ee-4e20-803f-4f992be45019.jpg)
 
 В отчёте показано движение денежных средств.
-![ГитХаб_08_GD-1](https://user-images.githubusercontent.com/110056199/213197684-4c683b71-8d16-4b60-ab6d-dc829514352c.jpg)
 
-
-![ГитХаб_09_GD-1](https://user-images.githubusercontent.com/110056199/213197711-47fbc94c-b104-454d-8c41-7527d2484b7f.jpg)
-
-
-
+![ФинАнализ(1)](https://user-images.githubusercontent.com/110056199/236886657-8a014231-bff5-4d4b-ba47-1b54871259cb.jpg)
